@@ -15,6 +15,7 @@
 		0968FDCF25BD416000A30ECA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0968FDCD25BD416000A30ECA /* LaunchScreen.storyboard */; };
 		0968FDDA25BD416000A30ECA /* CalculatorAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0968FDD925BD416000A30ECA /* CalculatorAppTests.swift */; };
 		0968FDE525BD416000A30ECA /* CalculatorAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0968FDE425BD416000A30ECA /* CalculatorAppUITests.swift */; };
+		0968FDF625BD52AE00A30ECA /* SeondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0968FDF525BD52AE00A30ECA /* SeondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0968FDE025BD416000A30ECA /* CalculatorAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0968FDE425BD416000A30ECA /* CalculatorAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorAppUITests.swift; sourceTree = "<group>"; };
 		0968FDE625BD416000A30ECA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0968FDF525BD52AE00A30ECA /* SeondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				0968FDCB25BD416000A30ECA /* Assets.xcassets */,
 				0968FDCD25BD416000A30ECA /* LaunchScreen.storyboard */,
 				0968FDD025BD416000A30ECA /* Info.plist */,
+				0968FDF525BD52AE00A30ECA /* SeondViewController.swift */,
 			);
 			path = CalculatorApp;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0968FDF625BD52AE00A30ECA /* SeondViewController.swift in Sources */,
 				0968FDC725BD415F00A30ECA /* ViewController.swift in Sources */,
 				0968FDC325BD415F00A30ECA /* AppDelegate.swift in Sources */,
 				0968FDC525BD415F00A30ECA /* SceneDelegate.swift in Sources */,
